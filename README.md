@@ -2,13 +2,20 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=I'm%20Hans!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-###
 
-<h3 align="left">🙋‍♂️About Me</h3>
 
-###
+## 🙋‍♂️ About Me
 
-<p align="left">- 📚 A full-stack web developer<br>- ⚡ A T-shaped engineer<br>- 💡 likes to do side projects</p>
+
+<h4 align="left">- 📚 A full-stack web developer<br>- ⚡ A T-shaped engineer<br>- 💡 likes to do side projects</h4>
+
+
+## 🌟 Let’s Connect!
+
+📫 Reach me at: **amoguishans@gmail.com**  
+🌐 Portfolio: [My Portfolio](https://hanseooo.vercel.app/)  
+🔗 LinkedIn: [Hans Amoguis](www.linkedin.com/in/hans-amoguis-637649393)  
+💬 Open to collaboration and exciting projects!
 
 ###
 
