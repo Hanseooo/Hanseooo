@@ -14,7 +14,7 @@
 
 📫 Reach me at: **amoguishans@gmail.com**  
 🌐 Portfolio: [My Portfolio](https://hanseooo.vercel.app/)  
-🔗 LinkedIn: [Hans Amoguis](www.linkedin.com/in/hans-amoguis-637649393)  
+🔗 LinkedIn: [Hans Amoguis](www.linkedin.com/in/hanseooo)  
 💬 Open to collaboration and exciting projects!
 <hr>
 
