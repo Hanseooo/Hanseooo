@@ -58,8 +58,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hanseooo&theme=dark" height="180">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hanseooo&theme=react&show_icons=true&hide_border=true&count_private=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanseooo&theme=react&show_icons=true&hide_border=true&count_private=true" height="180">
 </div>
+
+###
+
+<h3 align="left">👾   My Contribution Activity :</h3>
 
 ###
 
