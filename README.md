@@ -13,7 +13,7 @@
 ## 🌟 Let’s Connect!
 
 📫 Reach me at: **amoguishans@gmail.com**  
-🌐 Portfolio: [My Portfolio](https://hanseooo.vercel.app/)  
+🌐 Portfolio: [My Portfolio](https://hanseoo.vercel.app/)  
 🔗 LinkedIn: [Hans Amoguis](https://linkedin.com/in/hanseooo)  
 💬 Open to collaboration and exciting projects!
 <hr>
@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
