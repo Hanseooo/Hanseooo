@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsajZtcTR4MDgyODlpYncxamwxMDU1bm12aG1jemo1bG9uaTQ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VrtvDMP4ajo5y/giphy.gif" width="400"/>
 </div>
 
-<h1 align="center">Hey, I'm Hans 🌙</h1>
+<h1 align="center">I'm Hans 🌙</h1>
 
 <p align="center">
   I build things when the world is quiet.<br>
@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - Full-stack developer in progress  
-- Coding is both my hobby and my playground  
+- Coding is one of my hobbies  
 - Always learning, always experimenting  
 - Open to collaboration & cool ideas  
 
