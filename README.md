@@ -6,7 +6,6 @@
 
 <p align="center">
   I build things when the world is quiet.<br>
-  code, coffee, curiosity, repeat.
 </p>
 
 ---
@@ -16,7 +15,7 @@
 - Full-stack developer in progress  
 - Coding is one of my hobbies  
 - Always learning, always experimenting  
-- Open to collaboration & cool ideas  
+- Open to collaboration & project ideas  
 
 > *“Every project is a chance to get a little better.”*
 
@@ -25,7 +24,9 @@
 ## 🛠 Tech I Build With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,postgres,firebase,supabase,tailwind,git,vite" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,postgres,firebase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=supabase,tailwind,git,vite,bun,fastapi,gamemakerstudio,postman" />
 </div>
 
 ---
@@ -34,6 +35,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hanseooo&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanseooo&theme=transparent&hide_border=true&show_icons=true" />
 </div>
 
 ---
