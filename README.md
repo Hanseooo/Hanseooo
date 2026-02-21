@@ -5,14 +5,14 @@
 <h1 align="center">I'm Hans 🌙</h1>
 
 <p align="center">
-  I build things when the world is quiet.<br>
+  I like building maintainable systems that provides value to me.<br>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- Full-stack developer in progress  
+- AI Engineer in progress  
 - Coding is one of my hobbies  
 - Always learning, always experimenting  
 - Open to collaboration & project ideas  
@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hanseooo&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanseooo&theme=transparent&hide_border=true&show_icons=true" />
 </div>
 
 ---
