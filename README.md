@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsajZtcTR4MDgyODlpYncxamwxMDU1bm12aG1jemo1bG9uaTQ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VrtvDMP4ajo5y/giphy.gif" width="400"/>
 </div>
 
-<h1 align="center">I'm Hans 🌙</h1>
+<h1 align="center">I'm Hans</h1>
 
 <p align="center">
-  I like building maintainable systems that provides value to me.<br>
+  A builder with curiosity.<br>
 </p>
 
 ---
@@ -18,16 +18,6 @@
 - Open to collaboration & project ideas  
 
 > *“Every project is a chance to get a little better.”*
-
----
-
-## 🛠 Tech I Build With
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,postgres,firebase" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=supabase,tailwind,git,vite,bun,fastapi,gamemakerstudio,postman" />
-</div>
 
 ---
 
